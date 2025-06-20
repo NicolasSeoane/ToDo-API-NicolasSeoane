@@ -14,7 +14,7 @@ API para la gestión de tareas y listas de tareas, desarrollada con .NET 8.
 
 ```bash
 git clone https://github.com/NicolasSeoane/ToDo-API-NicolasSeoane.git
-cd todo-api
+cd ToDo-API-NicolasSeoane
 
 ```
 
